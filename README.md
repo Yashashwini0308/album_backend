@@ -1,7 +1,7 @@
 # album-backend
 Backend application for course project
 
-Project Title:- Album Backedn
+Project Title:- Album Backend
 
 Pre requistics:- 
 * Technologies Used - node, npm, mysql, expressjs
